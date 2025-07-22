@@ -32,9 +32,6 @@ body {
   list-style: none;
 }
 
-.header__links-list-item {
-  list-style-type: circle;
-}
 
 .header__logo {
   display: block;
