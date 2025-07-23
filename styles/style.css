@@ -32,7 +32,6 @@ body {
   list-style: none;
 }
 
-
 .header__logo {
   display: block;
 }
@@ -48,8 +47,6 @@ body {
   line-height: 1.35;
   max-width: 240px;
   align-self: center;
-  text-decoration: underline;
-  text-underline-offset: 4px;
 }
 
 .header__address {
@@ -62,7 +59,6 @@ body {
   min-height: 757px;
   z-index: 1;
   background-image: url(../images/cover.jpg);
-  background: center/cover no-repeat url(../images/cover.jpg);
 }
 
 .overlay {
@@ -273,8 +269,6 @@ body {
 .footer__address {
   padding-bottom: 88px;
   justify-self: start;
-  text-decoration: underline;
-  text-underline-offset: 4px;
 }
 
 .footer__menu {
