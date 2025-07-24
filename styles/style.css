@@ -58,7 +58,7 @@ body {
   padding: 165px 50px 51px;
   min-height: 757px;
   z-index: 1;
-  background-image: url(../images/cover.jpg);
+
   background: center/cover no-repeat url(../images/cover.jpg);
 }
 
